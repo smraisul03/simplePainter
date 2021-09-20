@@ -1,3 +1,3 @@
 # simplePainter
 
-A simplistic painting application designed in Python. 
+A simplistic painting application with functionalities designed in Python. 
